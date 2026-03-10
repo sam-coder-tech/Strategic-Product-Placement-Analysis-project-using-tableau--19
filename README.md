@@ -84,8 +84,7 @@ These visualizations help identify patterns in **sales trends, consumer preferen
 
 ## 📊 Tableau Public Link(Dasboard and Story):
 
-https://public.tableau.com/views/Strategic_Product_Placement_Analysis_17727291715250/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
-
+https://public.tableau.com/views/StrategicProductPlacementAnalysis_Final/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## 🎥 Project Demo
